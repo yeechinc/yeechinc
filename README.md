@@ -1,6 +1,6 @@
 <img src="banner.png" width="100%" alt="banner"/>
 
-### Hi, I'm Yee Chin
+### Hi, I'm Yee Chin!
 Product-minded NUS Computing student who writes the PRD and can build the thing.
 
 ### Projects
